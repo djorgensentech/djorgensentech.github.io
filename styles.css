@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    display: inline;
+}
+
+h3 {
+    padding: 40px;
+}
